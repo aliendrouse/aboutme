@@ -9,7 +9,7 @@
 - **Возраст:** 35 (по земным меркам)  
 - **Специализация:** QA Engineer / Бывший повелитель трудовых книжек  
 - **Контакты:**  
-  - 📧 `[human.not.suspicious@gmail.com](mailto:jokerbunny@gmail.com "Нажмите, чтобы отправить баг-репорт в мою почту")`  
+  - 📧 [human.not.suspicious@gmail.com](mailto:jokerbunny@gmail.com "Нажмите, чтобы отправить баг-репорт в мою почту")  
   - 📡 `Сигнал в космос на частоте 42.0 GHz`  
 
 ---
